@@ -8,18 +8,15 @@ See Project: http://crwn-samniu.herokuapp.com/
 
 ## Main Page
 
-<img src="https://github.com/xiaomingniu129/crwn-clothing/blob/master/images/main.png" width="700" height="400">
+<img src="https://github.com/xiaomingniu129/crwn-clothing/blob/master/images/main.png" width="1000" height="600">
 
 ## Sign in Page
-<img src="https://github.com/xiaomingniu129/crwn-clothing/blob/master/images/sign%20in.png" width="700" height="400">
+<img src="https://github.com/xiaomingniu129/crwn-clothing/blob/master/images/sign%20in.png" width="1000" height="600">
 
 
 ## Payment Page
 
-<img src="https://github.com/xiaomingniu129/crwn-clothing/blob/master/images/payment.jpeg" width="250" height="400">
-
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img src="https://github.com/xiaomingniu129/crwn-clothing/blob/master/images/payment.jpeg" width="1000" height="600">
 
 ## Available Scripts
 
