@@ -1,5 +1,5 @@
-# A News App in Web Version
-- Developed a large E-commerce web application utilizing React.
+# A E-commerce Web Application
+- Developed a E-commerce web application utilizing React.
 - Implemented the user authentication (Google Sign-In) and shop database storage with Firebase.
 - Implemented the online payment service with Stripe API.
 - Built an organized state management using Redux and tested the web application with Jest.
