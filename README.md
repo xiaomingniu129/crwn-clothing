@@ -1,7 +1,29 @@
+# A News App in Web Version
+- Developed a large E-commerce web application utilizing React.
+- Implemented the user authentication (Google Sign-In) and shop database storage with Firebase.
+- Implemented the online payment service with Stripe API.
+- Built an organized state management using Redux and tested the web application with Jest.
+- Deployed server side to Heroku.
+See Project: http://crwn-samniu.herokuapp.com/
+
+## Web Page
+
+<img src="https://github.com/xiaomingniu129/News-Web-App/blob/master/imgs_readme/world.png" width="700" height="400">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Figure 1: Web Page**
+
+## Web Page on Mobile Browser
+<img src="https://github.com/xiaomingniu129/News-Web-App/blob/master/imgs_readme/mobile.png" width="250" height="400">
+
+**Figure 2: Web Page on Mobile Browser**
+
+## Sharing with Facebook, Twitter, and Email
+The share button is clickable and opens up a modal as shown below.
+
+<img src="https://github.com/xiaomingniu129/News-Web-App/blob/master/imgs_readme/comment.png" width="250" height="400">
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Screenshots
-
 
 ## Available Scripts
 
