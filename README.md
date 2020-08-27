@@ -8,19 +8,15 @@ See Project: http://crwn-samniu.herokuapp.com/
 
 ## Main Page
 
-<img src="https://github.com/xiaomingniu129/crwn-clothing/images/main.png" width="700" height="400">
+<img src="https://github.com/xiaomingniu129/crwn-clothing/blob/master/images/main.png" width="700" height="400">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Figure 1: Main Page**
+## Sign in Page
+<img src="https://github.com/xiaomingniu129/crwn-clothing/blob/master/images/sign%20in.png" width="700" height="400">
 
-## Web Page on Mobile Browser
-<img src="https://github.com/xiaomingniu129/News-Web-App/blob/master/imgs_readme/mobile.png" width="250" height="400">
 
-**Figure 2: Web Page on Mobile Browser**
+## Payment Page
 
-## Sharing with Facebook, Twitter, and Email
-The share button is clickable and opens up a modal as shown below.
-
-<img src="https://github.com/xiaomingniu129/News-Web-App/blob/master/imgs_readme/comment.png" width="250" height="400">
+<img src="https://github.com/xiaomingniu129/crwn-clothing/blob/master/images/payment.jpeg" width="250" height="400">
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
